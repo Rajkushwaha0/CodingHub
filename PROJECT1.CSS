@@ -1,0 +1,61 @@
+body {
+  background-color: antiquewhite;
+  font-size: 22px;
+  position: absolute;
+  width: 100%;
+}
+h2 {
+  border: 1px solid black;
+  background-color: rgb(116, 255, 209);
+  width: fit-content;
+}
+header {
+  text-align: center;
+  background-color: black;
+  color: aliceblue;
+}
+#contact {
+  text-align: center;
+  background-color: aquamarine;
+}
+#language {
+  text-align: left;
+  background-color: aqua;
+  color: rgb(0, 0, 0);
+  border: 2px solid black;
+}
+
+#front {
+  text-align: left;
+  background-color: aqua;
+  color: rgb(0, 0, 0);
+  border: 2px solid black;
+}
+#back {
+  text-align: left;
+  background-color: aqua;
+  color: rgb(0, 0, 0);
+  border: 2px solid black;
+}
+#roadmap {
+  text-align: left;
+  background-color: aqua;
+  color: black;
+  border: 2px solid black;
+}
+#inter {
+  text-align: left;
+  background-color: aqua;
+  color: rgb(0, 0, 0);
+  border: 2px solid black;
+}
+
+footer {
+  text-align: center;
+  background-color: black;
+  background-attachment: fixed;
+  color: aliceblue;
+}
+.c {
+  color: darkgoldenrod;
+}
